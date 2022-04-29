@@ -1,33 +1,54 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=clejton" alt="dexternatan" /></p>
 
+<h1 align='center'>
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  I'm Cleiton
+</h1>
 
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Cleiton</h1>
-<p align = "justify">Enterprising and software developer in my company.</p>
+<p align='center'>
+  Enterprising and software developer in my company.
+</p>
 
-I currently work at [Agrofield](https://www.agrofieldsystem.com)
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/cleiton-freitas-20528350/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/clejton.freitas">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Clejtonf">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
-I'm learning at the moment **ReactJS and Spring**
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=clejton&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
+<p align='center'>
+  💻 My workspace<br/><br/>  
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/dell-G3&nbsp;3590%20-007DB8?style=for-the-badge&logo=dell&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i7%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201660-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-clejton-000000?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/cleiton-freitas-20528350/)
-[![Instagram Badge](https://img.shields.io/badge/-clejton.freitas-000000?style=flat-square&logo=instagram&link=https://www.instagram.com/clejton.freitas/?hl=pt-br)](https://instagram.com/clejton.freitas)
-[![Twitter Badge](https://img.shields.io/badge/-@Clejtonf-000000?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/Clejtonf/)](https://twitter.com/Clejtonf)
-[![Gmail Badge](https://img.shields.io/badge/-cleiton.freitas1@gmail.com-000000?style=flat-square&logo=Gmail&link=mailto:cleiton.freitas1@gmail.com)](mailto:cleiton.freitas1@gmail.com)
+<p align='center'>
+  🚀 My Tech Stack<br/><br/>  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+ </p>
 
-## 🚀💻 Technologies & Tools
+<p align='center'>
+  📫 How to reach me: <a href='mailto:cleiton.freitas1@gmail.com'>cleiton.freitas1@gmail.com</a>
+</p>
+<p align='center'>
+  <a href="#"><img align='center' src="https://badges.pufler.dev/visits/clejton/clejton"></a>&nbsp; hipsters and nerds have come here!
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)
-![Spring](https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github)
-
-## ⚡ GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=clejton&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clejton&hide=TeX&layout=compact)
