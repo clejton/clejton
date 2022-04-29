@@ -10,7 +10,7 @@ I'm learning at the moment **ReactJS and Spring**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-clejton-000000?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/cleiton-freitas-20528350/)
-[![Instagram Badge](https://img.shields.io/badge/-clejton-000000?style=flat-square&logo=instagram&link=https://www.instagram.com/clejton.freitas/?hl=pt-br)](https://instagram.com/clejton.freitas)
+[![Instagram Badge](https://img.shields.io/badge/-clejton.freitas-000000?style=flat-square&logo=instagram&link=https://www.instagram.com/clejton.freitas/?hl=pt-br)](https://instagram.com/clejton.freitas)
 [![Twitter Badge](https://img.shields.io/badge/-@Clejtonf-000000?style=flat-square&labelColor=000000&logo=Twitter&link=https://twitter.com/Clejtonf/)](https://twitter.com/Clejtonf)
 [![Gmail Badge](https://img.shields.io/badge/-cleiton.freitas1@gmail.com-000000?style=flat-square&logo=Gmail&link=mailto:cleiton.freitas1@gmail.com)](mailto:cleiton.freitas1@gmail.com)
 
