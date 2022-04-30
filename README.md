@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/cleiton-freitas-20528350/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/16753477/cleiton-de-freitas">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>&nbsp;&nbsp;  
   <a href="https://instagram.com/clejton.freitas">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
