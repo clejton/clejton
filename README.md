@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  Enterprising and software developer in my company.
+  Enterprising and software developer in my Startup.
 </p>
 
 <p align='center'>
