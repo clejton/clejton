@@ -52,6 +52,6 @@
   📫 How to reach me: <a href='mailto:cleiton.freitas1@gmail.com'>cleiton.freitas1@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img align='center' src="https://badges.pufler.dev/visits/clejton/clejton"></a>&nbsp; hipsters and nerds have come here!
+  <a href="#"><img align='center' src="https://komarev.com/ghpvc/?username=clejton"></a>&nbsp; hipsters and nerds have come here!
 </p>
 
